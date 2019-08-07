@@ -13,11 +13,11 @@ img {
 }
 
 h4 {
-  margin-top: 500px;
+  margin-top: 3500px;
 }
 
 p {
-  margin-top: 600px
+  margin-top: 3500px;
 }
 
 .pic1 {
@@ -199,6 +199,7 @@ p {
   left:850px;
   top: 3650px;
   z-index: 71;
+  margin-top: -50px;
 }
 
 .pic27 {
@@ -222,9 +223,9 @@ p {
   z-index: -80;
 }
 
-.pic2 {
+.pic30 {
   position: absolute;
-  left:1150px;
+  left:1050px;
   top: 2050px;
   z-index: 83;
 }
