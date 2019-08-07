@@ -12,6 +12,14 @@ img {
   height: 400px;
 }
 
+h4 {
+  margin-top: 500px;
+}
+
+p {
+  margin-top: 600px
+}
+
 .pic1 {
   position:absolute;
   left: 50px;
@@ -217,7 +225,7 @@ img {
 .pic2 {
   position: absolute;
   left:1150px;
-  top: 3050px;
+  top: 2050px;
   z-index: 83;
 }
 
