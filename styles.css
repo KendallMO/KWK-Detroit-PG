@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+h1 {
+  border-style: inset;
+}
+
+img {
+  height: 100px;
+}
