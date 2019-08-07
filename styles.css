@@ -14,16 +14,23 @@ img {
 
 .pic1 {
   position:absolute;
-  left: 0px;
-  top: 0px;
+  left: 20px;
+  top: 20px;
   z-index: -1;
 }
 
 .pic2 {
   position: absolute;
-  left:3px;
-  top: 5px;
+  left:30px;
+  top: 50px;
   z-index: -3;
+}
+
+.pic3 {
+  position: absolute;
+  left:40px;
+  top: 70px;
+  z-index: -5;
 }
 
 @ media screen and (max-width:900) {
